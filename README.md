@@ -26,3 +26,15 @@ Ver todos los commits de repositorio
 git log
 git log --oneline
 ```
+
+Crear branch
+```
+git branch [branch-name]
+git checkout -b [branch-name]
+```
+
+Eliminar rama
+```
+git branch -d [branch-name]
+git branch -D [branch-name]
+```
