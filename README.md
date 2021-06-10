@@ -17,6 +17,7 @@ git add .
 git add file.jpg
 git add *.mp4
 git add newfolder/
+git add newfolder/file.svg
 git add newfolder/*.png
 ```
 
