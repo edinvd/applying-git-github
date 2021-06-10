@@ -38,3 +38,9 @@ Eliminar rama
 git branch -d [branch-name]
 git branch -D [branch-name]
 ```
+
+Unir ramas
+```
+git merge [branch-name]
+```
+
