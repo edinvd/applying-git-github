@@ -19,3 +19,9 @@ git add *.mp4
 git add newfolder/
 git add newfolder/*.png
 ```
+
+Ver todos los commits de repositorio
+```
+git log
+git log --oneline
+```
