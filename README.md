@@ -50,3 +50,11 @@ Unir Branch
 git merge [branch-name]
 ```
 
+Etiquetas
+```
+git tag -a  V1.0.0 -m "Version 1.0.0"
+git tag -a  V1.0.0 [IDcc] -m "Version 1.0.0"
+
+git tag -d [tag-name]
+```
+
