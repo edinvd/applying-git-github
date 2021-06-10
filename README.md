@@ -2,9 +2,20 @@
 Git es un sistema de control de versiones.
 Github es un servicio de alojamiento, donde podemos guardar el codigo de nuestro proyecto, este trabaja con el sistema de control de git.
 
-##Comandos basicos en Git:
-```git
+## Comandos basicos en Git:
+```
 git add
 git status
 git commit
+```
+
+## Comandos avanzados:
+
+Formas de agregar archivos del Working Directory (WD) al Staging Area (SA)
+```
+git add .
+git add file.jpg
+git add *.mp4
+git add newfolder/
+git add newfolder/*.png
 ```
