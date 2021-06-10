@@ -9,6 +9,12 @@ git status
 git commit
 ```
 
+## Configuración de Git
+```
+git config --global user.name "[user]"
+git config --global user.email "[email]"
+```
+
 ## Comandos avanzados:
 
 Formas de agregar archivos del Working Directory (WD) al Staging Area (SA)
