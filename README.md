@@ -1,1 +1,1 @@
-# Aplicando lo de Git y Github
+# Aplicando Git y Github
