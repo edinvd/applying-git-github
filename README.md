@@ -33,13 +33,13 @@ git branch [branch-name]
 git checkout -b [branch-name]
 ```
 
-Eliminar rama
+Eliminar Branch
 ```
 git branch -d [branch-name]
 git branch -D [branch-name]
 ```
 
-Unir ramas
+Unir Branch
 ```
 git merge [branch-name]
 ```
